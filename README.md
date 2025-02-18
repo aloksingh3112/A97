@@ -1,4 +1,4 @@
-# A79 Frontend Take Home Assignment
+# Frontend 
 
 This project implements a chatbot interface that interacts with a CSV dataset represented as a table. The interface features a split design with a resizable table view on the left and chat functionality on the right.
 
